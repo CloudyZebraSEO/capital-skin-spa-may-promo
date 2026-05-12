@@ -5,7 +5,7 @@
 This repo hosts a preview render of a promotional email being sent through DemandForce.
 
 - `index.html` — the email body (paste directly into DemandForce)
-- `images/` — the 4 marketing images referenced by the email
+- `images/` — the 5 marketing images referenced by the email
 
 ## What's in the email
 
@@ -15,6 +15,7 @@ This repo hosts a preview render of a promotional email being sent through Deman
 - Botox — $12/unit
 - 10% off RF Microneedling
 - 10% off Fractional CO₂ Laser Resurfacing
+- 15% off Facials & Add-Ons
 
 **Plus:** Announcement that online booking is now live at https://capitalskinspa.com/where-do-i-start/
 
